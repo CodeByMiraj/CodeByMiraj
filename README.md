@@ -33,11 +33,6 @@ Built a 4-table relational fraud detection system on 20,000 UPI transactions acr
 **[Indian Retail BI Dashboard](https://github.com/CodeByMiraj/Indian-Retail-BI-Dashboard)**
 Designed a synthetic 75,000-row relational retail dataset and built a 3-page Power BI dashboard covering revenue, category profitability, customer segmentation, and returns — using 20+ DAX measures including time intelligence and RANKX. `Power BI` `DAX` `Power Query`
 
----
-
-### 📈 GitHub Stats
-
-![Miraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeByMiraj&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
