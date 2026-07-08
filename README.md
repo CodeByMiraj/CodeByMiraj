@@ -8,7 +8,7 @@ Open to Data Analyst / Business Analyst / BI Analyst opportunities.
 
 ---
 
-### 🔧 Skills
+### Skills
 
 **Languages & Querying:** `Python` `SQL` `PostgreSQL` `DAX`
 
@@ -22,7 +22,7 @@ Open to Data Analyst / Business Analyst / BI Analyst opportunities.
 
 ---
 
-### 📊 Featured Projects
+### Featured Projects
 
 **[Zomato Delivery Analytics](https://github.com/CodeByMiraj/Zomato-Delivery-Analytics)**
 Analyzed 44,000+ delivery records to isolate the single biggest driver of delays — riders handling 3 simultaneous orders take 106.8% longer to deliver. `Python` `Pandas` `SQL`
@@ -45,6 +45,6 @@ Designed a synthetic 75,000-row relational retail dataset and built a 3-page Pow
 
 ---
 
-### 📫 Connect
+### Connect
 
 [LinkedIn](https://www.linkedin.com/in/miraj-p-a90a87294/)
