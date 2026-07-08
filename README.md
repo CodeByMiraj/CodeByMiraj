@@ -11,9 +11,13 @@ Open to Data Analyst / Business Analyst / BI Analyst opportunities.
 ### 🔧 Skills
 
 **Languages & Querying:** `Python` `SQL` `PostgreSQL` `DAX`
+
 **Analysis & Visualization:** `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Excel`
+
 **Tools:** `Git` `GitHub` `Power Query` `Jupyter`
+
 **Statistics:** Hypothesis Testing · A/B Testing · Regression
+
 **Domain Knowledge:** BFSI · E-commerce & Retail
 
 ---
@@ -33,7 +37,7 @@ Designed a synthetic 75,000-row relational retail dataset and built a 3-page Pow
 
 ### 📈 GitHub Stats
 
-![Miraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByMiraj&show_icons=true&theme=default&hide_border=true)
+![Miraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeByMiraj&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
