@@ -1,4 +1,4 @@
-### Hi, I'm Miraj Patil 👋
+### Hi, I'm Miraj Patil 
 
 **Data Analyst | Turning Data Into Business Decisions**
 
