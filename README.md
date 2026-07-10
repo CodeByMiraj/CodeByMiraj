@@ -47,4 +47,4 @@ Designed a synthetic 75,000-row relational retail dataset and built a 3-page Pow
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/miraj-p-a90a87294/)
+[LinkedIn](https://linkedin.com/in/mirajpatil/)
